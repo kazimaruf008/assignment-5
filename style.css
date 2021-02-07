@@ -13,7 +13,8 @@ body{
     line-height: 1.6;
 }
 .menu h1{
-    margin-left: 50px;
+    font-size: 40;
+    margin-left: 70px;
     display: inline-block;
 }
 .menu ul{
@@ -25,7 +26,7 @@ body{
     display: inline-block;
 }
 .menu ul li a{
-    font-size: 15px;
+    font-size: 20px;
     text-decoration: none;
     list-style: none;
     color: black;
